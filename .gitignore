@@ -126,3 +126,5 @@ company_research/*.json
 company_pages.json
 # workday-search personal registry
 workday_sites.json
+# selectminds-search personal registry
+selectminds_sites.json
