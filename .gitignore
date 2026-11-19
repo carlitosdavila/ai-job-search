@@ -121,3 +121,8 @@ company_research/*.json
 
 # Brainstorm mockups (superpowers visual companion) - never ship
 .superpowers/
+
+# company-pages-search personal registry
+company_pages.json
+# workday-search personal registry
+workday_sites.json
